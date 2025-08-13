@@ -1,2 +1,2 @@
-calculator: calculator.c
+calc: calculator.c
 	gcc calculator.c -o calc -Wall -Wextra -pedantic -std=c99
