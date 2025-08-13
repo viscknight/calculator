@@ -8,6 +8,8 @@ Enter an arithmetic expression with 2 integers when prompted—e.g.:
 21
 > 56789-4635
 52154
+> 11/2
+5 (rounded)
 ```
 Some commands are also available (see below).
 
@@ -19,7 +21,7 @@ Some commands are also available (see below).
 
 ### Commands:
 - **'?':** Show help guide.
-- **'end' (non-case sensitive):** Exit the program.
+- **'end':** Exit the program (non-case sensitive).
 
 ### Input rules:
 - Input is limited to a maximum of 30 characters.
@@ -37,4 +39,4 @@ Some commands are also available (see below).
 - Bracket inputs are permitted.
 - Decimal outputs for division.
 
-_Last updated: 10 July 2025_
+_Last updated: 13 August 2025_
